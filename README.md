@@ -5,15 +5,15 @@ For being successful, one of the key aspects is to arrive at the right price and
 Your task now is to find relations between features like camera quality, RAM, weight, size, etc. and the price range.
 
 Dataset Description
-Here is some description about the various attributes in the dataset:
-**id**: ID  
-**battery_power**: Total energy a battery can store in one time measured in mAh  
-**blue**: Has bluetooth or not
+Here is some description about the various attributes in the dataset:  
 
+• id: ID  
+• battery_power: Total energy a battery can store in one time measured in mAh  
+• blue: Has bluetooth or not  
 • clock_speed: speed at which microprocessor executes instructions
-• dual_sim: Has dual sim support or not
-• fc: Front Camera mega pixels
-• four_g: Has 4G or not
+• dual_sim: Has dual sim support or not  
+• fc: Front Camera mega pixels  
+• four_g: Has 4G or not  
 • int_memory: Internal Memory in Gigabytes
 • m_dep: Mobile Depth in cm
 • mobile_wt: Weight of mobile phone
