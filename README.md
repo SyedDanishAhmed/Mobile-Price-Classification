@@ -6,10 +6,10 @@ Your task now is to find relations between features like camera quality, RAM, we
 
 Dataset Description
 Here is some description about the various attributes in the dataset:
-**id**: ID
-**battery_power**: Total energy a battery can store in one time measured in mAh
+**id**: ID  
+**battery_power**: Total energy a battery can store in one time measured in mAh  
+**blue**: Has bluetooth or not
 
-• blue: Has bluetooth or not
 • clock_speed: speed at which microprocessor executes instructions
 • dual_sim: Has dual sim support or not
 • fc: Front Camera mega pixels
