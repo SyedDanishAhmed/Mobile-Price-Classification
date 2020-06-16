@@ -1,12 +1,12 @@
 # Mobile-Price-Classification
 
-**Problem Context**
+**Problem Context**  
 Imagine you are starting your own mobile phone company and desperately want your company to be successful like the big guns of the smartphone industry.
 
 For being successful, one of the key aspects is to arrive at the right price and the kind of features you want to offer in your mobile phones. To make a true data-driven decision, you have collected sales data of various brands of mobile phones.
 Your task now is to find relations between features like camera quality, RAM, weight, size, etc. and the price range.
 
-**Objective**
+**Objective**  
 Build a model to train a classifier to predict the price_range class given the values of all other data attributes.
 
 **Dataset Description**
